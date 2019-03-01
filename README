@@ -1,1 +1,2 @@
-randGen fait génère aléatoirement dans le fichier i.txt les données, de telle sorte qu'il y a autant de cases vivantes que vous en avez demandées.
+
+genRand.exe génère aléatoirement dans le fichier i.txt les données, de telle sorte qu'il y a autant de cases vivantes que vous en avez demandées.
